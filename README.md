@@ -6,7 +6,7 @@ My first app - single page.   My first app - single page. If you need to check s
 اگر جایی رو نیاز داشتید چک کنید، سورس کد به صورت اوپن سورس قابل دیدن هست.
 <br>
 <br>
-![Screenshot (117)](https://github.com/ip4rsa/TravelApp-singlePage/assets/117844346/c546c026-77ce-42c3-8c83-ca968016c168)
+![Screenshot (app)](https://github.com/ip4rsa/TravelApp-singlePage/assets/117844346/c546c026-77ce-42c3-8c83-ca968016c168)
 <br>
 
 
